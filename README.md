@@ -1,8 +1,8 @@
 # tda4vmPostureEnforcer
 Posture enforcer with Texas Instruments TDA4VM board, Logitech USB Cam, 1 channel relay and Edge Impulse Machine Learning platform
 
-# Complete instructions 
-Edge Impulse web site https://docs.edgeimpulse.com/
+# Edge Impulse project
+https://studio.edgeimpulse.com/public/222158/latest
 
 # Contact
 Roni Bandini
